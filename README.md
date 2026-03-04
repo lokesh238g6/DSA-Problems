@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/lokesh238g6/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0435-non-overlapping-intervals](https://github.com/lokesh238g6/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lokesh238g6/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lokesh238g6/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lokesh238g6/DSA-Problems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/lokesh238g6/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0435-non-overlapping-intervals](https://github.com/lokesh238g6/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lokesh238g6/DSA-Problems/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/lokesh238g6/DSA-Problems/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
