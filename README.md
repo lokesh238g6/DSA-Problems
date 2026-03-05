@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lokesh238g6/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/lokesh238g6/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/lokesh238g6/DSA-Problems/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/lokesh238g6/DSA-Problems/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/lokesh238g6/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/lokesh238g6/DSA-Problems/tree/master/0062-unique-paths) |
+| [0412-fizz-buzz](https://github.com/lokesh238g6/DSA-Problems/tree/master/0412-fizz-buzz) |
 ## Combinatorics
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/lokesh238g6/DSA-Problems/tree/master/0063-unique-paths-ii) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/lokesh238g6/DSA-Problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
