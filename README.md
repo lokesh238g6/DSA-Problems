@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lokesh238g6/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0168-excel-sheet-column-title](https://github.com/lokesh238g6/DSA-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/lokesh238g6/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/lokesh238g6/DSA-Problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/lokesh238g6/DSA-Problems/tree/master/0412-fizz-buzz) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/lokesh238g6/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/lokesh238g6/DSA-Problems/tree/master/0062-unique-paths) |
+| [0168-excel-sheet-column-title](https://github.com/lokesh238g6/DSA-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/lokesh238g6/DSA-Problems/tree/master/0412-fizz-buzz) |
 ## Combinatorics
 |  |
