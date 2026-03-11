@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/lokesh238g6/DSA-Problems/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/lokesh238g6/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0413-arithmetic-slices](https://github.com/lokesh238g6/DSA-Problems/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/lokesh238g6/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lokesh238g6/DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/lokesh238g6/DSA-Problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
