@@ -6,33 +6,30 @@ class Solution {
             return 0;
         }
         int c=0;
-        for(int k=0;k<grid.length;k++)
+        for(int i=0;i<grid.length;i++)
         {
-            for(int m=0;m<grid[0].length;m++)
+            for(int j=0;j<grid[0].length;j++)
             {
-                if(grid[k][m]=='1')
+                if(grid[i][j]=='1')
                 {
-                 c++;
-                 dfs(grid,k,m);
+                    c++;
+                    dfs(grid,i,j);
                 }
             }
         }
         return c;
-        
-        
-    }
-    public void dfs(char[][] grid,int i,int j)
-    {
-                if(i<0||i>=grid.length||j<0||j>=grid[0].length||grid[i][j]!='1')
-                {
-                    return;
-                }
-                grid[i][j]='0';
-                dfs(grid,i+1,j);
-                dfs(grid,i-1,j);
-                dfs(grid,i,j+1);
-                dfs(grid,i,j-1);
-            }
-        
-    
+
+     }
+     public void dfs(char[][] grid,int i,int j)
+     {
+        if(i<0||i>=grid.length||j<0||j>=grid[0].length||grid[i][j]!='1')
+        {
+            return ;
+        }
+        grid[i][j]='0';
+        dfs(grid,i+1,j);
+        dfs(grid,i-1,j);
+        dfs(grid,i,j+1);
+        dfs(grid,i,j-1);
+     }
 }
