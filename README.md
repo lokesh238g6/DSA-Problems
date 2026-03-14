@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/lokesh238g6/DSA-Problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lokesh238g6/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/lokesh238g6/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lokesh238g6/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/lokesh238g6/DSA-Problems/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/lokesh238g6/DSA-Problems/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/lokesh238g6/DSA-Problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/lokesh238g6/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/lokesh238g6/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0413-arithmetic-slices](https://github.com/lokesh238g6/DSA-Problems/tree/master/0413-arithmetic-slices) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lokesh238g6/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/lokesh238g6/DSA-Problems/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/lokesh238g6/DSA-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/lokesh238g6/DSA-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/lokesh238g6/DSA-Problems/tree/master/0242-valid-anagram) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/lokesh238g6/DSA-Problems/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/lokesh238g6/DSA-Problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/lokesh238g6/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/lokesh238g6/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/lokesh238g6/DSA-Problems/tree/master/0463-island-perimeter) |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/lokesh238g6/DSA-Problems/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/lokesh238g6/DSA-Problems/tree/master/0079-word-search) |
 ## Union-Find
 |  |
 | ------- |
