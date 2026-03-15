@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/lokesh238g6/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/lokesh238g6/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/lokesh238g6/DSA-Problems/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/lokesh238g6/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/lokesh238g6/DSA-Problems/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/lokesh238g6/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/lokesh238g6/DSA-Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/lokesh238g6/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/lokesh238g6/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/lokesh238g6/DSA-Problems/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/lokesh238g6/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/lokesh238g6/DSA-Problems/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/lokesh238g6/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 ## Design
@@ -192,6 +194,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/lokesh238g6/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/lokesh238g6/DSA-Problems/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/lokesh238g6/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/lokesh238g6/DSA-Problems/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/lokesh238g6/DSA-Problems/tree/master/1254-number-of-closed-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/lokesh238g6/DSA-Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
