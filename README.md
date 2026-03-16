@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/lokesh238g6/DSA-Problems/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/lokesh238g6/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/lokesh238g6/DSA-Problems/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/lokesh238g6/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/lokesh238g6/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 ## Design
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lokesh238g6/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/lokesh238g6/DSA-Problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/lokesh238g6/DSA-Problems/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/lokesh238g6/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/lokesh238g6/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lokesh238g6/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/lokesh238g6/DSA-Problems/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/lokesh238g6/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/lokesh238g6/DSA-Problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/lokesh238g6/DSA-Problems/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/lokesh238g6/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/lokesh238g6/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 ## Simulation
 |  |
