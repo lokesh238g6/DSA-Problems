@@ -14,7 +14,7 @@ class Solution {
         ListNode head=null;
         ListNode tail=null;
         int carry=0;
-       while (l1 != null || l2 != null || carry != 0)
+       while (l1!=null || l2!=null || carry!=0)
         {
             int sum=carry;
             if(l1 != null)
@@ -33,12 +33,12 @@ class Solution {
             carry=sum/10;
             if (head == null)
              { 
-                head = newnode; 
-                tail = newnode; 
+                head=newnode; 
+                tail=newnode; 
                 } else 
                 { 
-                    tail.next = newnode;
-                     tail = newnode; 
+                    tail.next=newnode;
+                     tail=newnode; 
                      }
 
         }
