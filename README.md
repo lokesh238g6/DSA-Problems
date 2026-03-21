@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lokesh238g6/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/lokesh238g6/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/lokesh238g6/DSA-Problems/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/lokesh238g6/DSA-Problems/tree/master/0168-excel-sheet-column-title) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lokesh238g6/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lokesh238g6/DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Backtracking
 |  |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/lokesh238g6/DSA-Problems/tree/master/0547-number-of-provinces) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/lokesh238g6/DSA-Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
