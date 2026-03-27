@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lokesh238g6/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/lokesh238g6/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/lokesh238g6/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/lokesh238g6/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/lokesh238g6/DSA-Problems/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/lokesh238g6/DSA-Problems/tree/master/0409-longest-palindrome) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/lokesh238g6/DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lokesh238g6/DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/lokesh238g6/DSA-Problems/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/lokesh238g6/DSA-Problems/tree/master/0141-linked-list-cycle) |
 ## Backtracking
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lokesh238g6/DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/lokesh238g6/DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/lokesh238g6/DSA-Problems/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/lokesh238g6/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lokesh238g6/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
