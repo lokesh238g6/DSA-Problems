@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/lokesh238g6/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lokesh238g6/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/lokesh238g6/DSA-Problems/tree/master/0463-island-perimeter) |
+| [0643-maximum-average-subarray-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/lokesh238g6/DSA-Problems/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/lokesh238g6/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/lokesh238g6/DSA-Problems/tree/master/1020-number-of-enclaves) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lokesh238g6/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/lokesh238g6/DSA-Problems/tree/master/0413-arithmetic-slices) |
+| [0643-maximum-average-subarray-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lokesh238g6/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
