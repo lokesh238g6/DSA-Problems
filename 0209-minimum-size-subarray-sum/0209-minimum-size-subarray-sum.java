@@ -9,12 +9,12 @@ class Solution {
       
       while(crv>=target)
       {
-       minl = Math.min(minl, right-left+1);
+       minl=Math.min(minl,right-left+1);
         crv-=nums[left];
         left++;
       }
       }
-      return (minl== Integer.MAX_VALUE) ? 0 : minl;
+      return (minl==Integer.MAX_VALUE) ? 0 : minl;
         
     }
 }
