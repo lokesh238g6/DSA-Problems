@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lokesh238g6/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lokesh238g6/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/lokesh238g6/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lokesh238g6/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/lokesh238g6/DSA-Problems/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/lokesh238g6/DSA-Problems/tree/master/0695-max-area-of-island) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lokesh238g6/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/lokesh238g6/DSA-Problems/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/lokesh238g6/DSA-Problems/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/lokesh238g6/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lokesh238g6/DSA-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -275,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lokesh238g6/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
