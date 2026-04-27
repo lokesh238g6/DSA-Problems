@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/lokesh238g6/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/lokesh238g6/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/lokesh238g6/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/lokesh238g6/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/lokesh238g6/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/lokesh238g6/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/lokesh238g6/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lokesh238g6/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/lokesh238g6/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lokesh238g6/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/lokesh238g6/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/lokesh238g6/DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/lokesh238g6/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lokesh238g6/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/lokesh238g6/DSA-Problems/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
