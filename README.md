@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/lokesh238g6/DSA-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lokesh238g6/DSA-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/lokesh238g6/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/lokesh238g6/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/lokesh238g6/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/lokesh238g6/DSA-Problems/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/lokesh238g6/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lokesh238g6/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/lokesh238g6/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/lokesh238g6/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lokesh238g6/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/lokesh238g6/DSA-Problems/tree/master/0561-array-partition) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/lokesh238g6/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/lokesh238g6/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/lokesh238g6/DSA-Problems/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/lokesh238g6/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/lokesh238g6/DSA-Problems/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/0496-next-greater-element-i) |
@@ -298,10 +303,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/lokesh238g6/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/lokesh238g6/DSA-Problems/tree/master/0561-array-partition) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/lokesh238g6/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
