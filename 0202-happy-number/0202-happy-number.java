@@ -2,7 +2,7 @@ class Solution {
     public boolean isHappy(int n) 
     {    
         Set<Integer> set=new HashSet<>();
-        while ( !set.contains(n)) 
+        while (!set.contains(n)) 
         {
             set.add(n);
             n=getnext(n);
