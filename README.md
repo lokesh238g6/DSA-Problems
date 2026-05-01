@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/lokesh238g6/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/lokesh238g6/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/lokesh238g6/DSA-Problems/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/lokesh238g6/DSA-Problems/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/lokesh238g6/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lokesh238g6/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/lokesh238g6/DSA-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/lokesh238g6/DSA-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/lokesh238g6/DSA-Problems/tree/master/0063-unique-paths-ii) |
+| [0396-rotate-function](https://github.com/lokesh238g6/DSA-Problems/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/lokesh238g6/DSA-Problems/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/lokesh238g6/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/lokesh238g6/DSA-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/lokesh238g6/DSA-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/lokesh238g6/DSA-Problems/tree/master/0202-happy-number) |
+| [0396-rotate-function](https://github.com/lokesh238g6/DSA-Problems/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/lokesh238g6/DSA-Problems/tree/master/0412-fizz-buzz) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lokesh238g6/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
