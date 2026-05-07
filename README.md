@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/lokesh238g6/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/lokesh238g6/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/lokesh238g6/DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/lokesh238g6/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/lokesh238g6/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/lokesh238g6/DSA-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/lokesh238g6/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/lokesh238g6/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/lokesh238g6/DSA-Problems/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/lokesh238g6/DSA-Problems/tree/master/0055-jump-game) |
