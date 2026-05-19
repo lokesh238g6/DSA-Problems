@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lokesh238g6/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lokesh238g6/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/lokesh238g6/DSA-Problems/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lokesh238g6/DSA-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/lokesh238g6/DSA-Problems/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lokesh238g6/DSA-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2540-minimum-common-value](https://github.com/lokesh238g6/DSA-Problems/tree/master/2540-minimum-common-value) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lokesh238g6/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/lokesh238g6/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [2351-first-letter-to-appear-twice](https://github.com/lokesh238g6/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lokesh238g6/DSA-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2540-minimum-common-value](https://github.com/lokesh238g6/DSA-Problems/tree/master/2540-minimum-common-value) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/lokesh238g6/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lokesh238g6/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/lokesh238g6/DSA-Problems/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lokesh238g6/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
