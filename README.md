@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/lokesh238g6/DSA-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/lokesh238g6/DSA-Problems/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/lokesh238g6/DSA-Problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/lokesh238g6/DSA-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/lokesh238g6/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/lokesh238g6/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/lokesh238g6/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/lokesh238g6/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/lokesh238g6/DSA-Problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/lokesh238g6/DSA-Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/lokesh238g6/DSA-Problems/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/lokesh238g6/DSA-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/lokesh238g6/DSA-Problems/tree/master/0171-excel-sheet-column-number) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/lokesh238g6/DSA-Problems/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/lokesh238g6/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/lokesh238g6/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/lokesh238g6/DSA-Problems/tree/master/0079-word-search) |
