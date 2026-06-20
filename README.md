@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lokesh238g6/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/lokesh238g6/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/lokesh238g6/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/lokesh238g6/DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/lokesh238g6/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lokesh238g6/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lokesh238g6/DSA-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/lokesh238g6/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/lokesh238g6/DSA-Problems/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/lokesh238g6/DSA-Problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/lokesh238g6/DSA-Problems/tree/master/0055-jump-game) |
