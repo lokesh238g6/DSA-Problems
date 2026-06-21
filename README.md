@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/lokesh238g6/DSA-Problems/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lokesh238g6/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lokesh238g6/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/lokesh238g6/DSA-Problems/tree/master/2540-minimum-common-value) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/lokesh238g6/DSA-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/lokesh238g6/DSA-Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/lokesh238g6/DSA-Problems/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/lokesh238g6/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lokesh238g6/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/lokesh238g6/DSA-Problems/tree/master/0994-rotting-oranges) |
