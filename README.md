@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/lokesh238g6/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/lokesh238g6/DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/lokesh238g6/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/lokesh238g6/DSA-Problems/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lokesh238g6/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/lokesh238g6/DSA-Problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/lokesh238g6/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh238g6/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/lokesh238g6/DSA-Problems/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
