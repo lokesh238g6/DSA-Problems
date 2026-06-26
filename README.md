@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lokesh238g6/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/lokesh238g6/DSA-Problems/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/lokesh238g6/DSA-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lokesh238g6/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/lokesh238g6/DSA-Problems/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/0496-next-greater-element-i) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/lokesh238g6/DSA-Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/lokesh238g6/DSA-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lokesh238g6/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/lokesh238g6/DSA-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lokesh238g6/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/lokesh238g6/DSA-Problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/lokesh238g6/DSA-Problems/tree/master/0412-fizz-buzz) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/lokesh238g6/DSA-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lokesh238g6/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/lokesh238g6/DSA-Problems/tree/master/0561-array-partition) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lokesh238g6/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
