@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lokesh238g6/DSA-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1470-shuffle-the-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lokesh238g6/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lokesh238g6/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lokesh238g6/DSA-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/lokesh238g6/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/lokesh238g6/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh238g6/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lokesh238g6/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
