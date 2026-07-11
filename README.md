@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lokesh238g6/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lokesh238g6/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/lokesh238g6/DSA-Problems/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lokesh238g6/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lokesh238g6/DSA-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/lokesh238g6/DSA-Problems/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lokesh238g6/DSA-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/lokesh238g6/DSA-Problems/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/lokesh238g6/DSA-Problems/tree/master/2784-check-if-array-is-good) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/lokesh238g6/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lokesh238g6/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2784-check-if-array-is-good](https://github.com/lokesh238g6/DSA-Problems/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
