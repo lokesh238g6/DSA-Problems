@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lokesh238g6/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lokesh238g6/DSA-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1991-find-the-middle-index-in-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lokesh238g6/DSA-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/lokesh238g6/DSA-Problems/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/lokesh238g6/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lokesh238g6/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1991-find-the-middle-index-in-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/1991-find-the-middle-index-in-array) |
 ## Math
 |  |
 | ------- |
