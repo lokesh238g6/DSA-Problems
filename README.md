@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/lokesh238g6/DSA-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/lokesh238g6/DSA-Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/lokesh238g6/DSA-Problems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/lokesh238g6/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/lokesh238g6/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lokesh238g6/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/lokesh238g6/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/lokesh238g6/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/lokesh238g6/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/lokesh238g6/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lokesh238g6/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
