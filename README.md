@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/lokesh238g6/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/lokesh238g6/DSA-Problems/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/lokesh238g6/DSA-Problems/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/lokesh238g6/DSA-Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/lokesh238g6/DSA-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/lokesh238g6/DSA-Problems/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/lokesh238g6/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/lokesh238g6/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lokesh238g6/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/lokesh238g6/DSA-Problems/tree/master/0739-daily-temperatures) |
 ## Counting Sort
 |  |
 | ------- |
