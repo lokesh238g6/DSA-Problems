@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/lokesh238g6/DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/lokesh238g6/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/lokesh238g6/DSA-Problems/tree/master/1108-defanging-an-ip-address) |
+| [1446-consecutive-characters](https://github.com/lokesh238g6/DSA-Problems/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lokesh238g6/DSA-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2351-first-letter-to-appear-twice](https://github.com/lokesh238g6/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
