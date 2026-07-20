@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lokesh238g6/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/lokesh238g6/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/lokesh238g6/DSA-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/lokesh238g6/DSA-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/lokesh238g6/DSA-Problems/tree/master/0063-unique-paths-ii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/lokesh238g6/DSA-Problems/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/lokesh238g6/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lokesh238g6/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/lokesh238g6/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/lokesh238g6/DSA-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/lokesh238g6/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/lokesh238g6/DSA-Problems/tree/master/0165-compare-version-numbers) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lokesh238g6/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/lokesh238g6/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/lokesh238g6/DSA-Problems/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/lokesh238g6/DSA-Problems/tree/master/0079-word-search) |
 ## Union-Find
