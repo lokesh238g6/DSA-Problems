@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/lokesh238g6/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lokesh238g6/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/lokesh238g6/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/lokesh238g6/DSA-Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/lokesh238g6/DSA-Problems/tree/master/0739-daily-temperatures) |
 ## Tree
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/lokesh238g6/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lokesh238g6/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/lokesh238g6/DSA-Problems/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/lokesh238g6/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/lokesh238g6/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/lokesh238g6/DSA-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lokesh238g6/DSA-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/lokesh238g6/DSA-Problems/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/lokesh238g6/DSA-Problems/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/lokesh238g6/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/lokesh238g6/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/lokesh238g6/DSA-Problems/tree/master/0788-rotated-digits) |
 ## Sorting
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/lokesh238g6/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/lokesh238g6/DSA-Problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/lokesh238g6/DSA-Problems/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/lokesh238g6/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/lokesh238g6/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/lokesh238g6/DSA-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1446-consecutive-characters](https://github.com/lokesh238g6/DSA-Problems/tree/master/1446-consecutive-characters) |
