@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lokesh238g6/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lokesh238g6/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lokesh238g6/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/0496-next-greater-element-i) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/lokesh238g6/DSA-Problems/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/lokesh238g6/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lokesh238g6/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/lokesh238g6/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/lokesh238g6/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/lokesh238g6/DSA-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/lokesh238g6/DSA-Problems/tree/master/0125-valid-palindrome) |
