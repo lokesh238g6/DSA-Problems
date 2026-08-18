@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/lokesh238g6/DSA-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0197-rising-temperature](https://github.com/lokesh238g6/DSA-Problems/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/1068-product-sales-analysis-i) |
 | [1280-students-and-examinations](https://github.com/lokesh238g6/DSA-Problems/tree/master/1280-students-and-examinations) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/lokesh238g6/DSA-Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
