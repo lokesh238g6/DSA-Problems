@@ -496,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/lokesh238g6/DSA-Problems/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [1280-students-and-examinations](https://github.com/lokesh238g6/DSA-Problems/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
