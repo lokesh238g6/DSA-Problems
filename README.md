@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/lokesh238g6/DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lokesh238g6/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/lokesh238g6/DSA-Problems/tree/master/0788-rotated-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/lokesh238g6/DSA-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lokesh238g6/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lokesh238g6/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
