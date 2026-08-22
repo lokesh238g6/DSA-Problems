@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/lokesh238g6/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/lokesh238g6/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/lokesh238g6/DSA-Problems/tree/master/1020-number-of-enclaves) |
+| [1037-valid-boomerang](https://github.com/lokesh238g6/DSA-Problems/tree/master/1037-valid-boomerang) |
 | [1254-number-of-closed-islands](https://github.com/lokesh238g6/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/lokesh238g6/DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lokesh238g6/DSA-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/lokesh238g6/DSA-Problems/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lokesh238g6/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/lokesh238g6/DSA-Problems/tree/master/0788-rotated-digits) |
+| [1037-valid-boomerang](https://github.com/lokesh238g6/DSA-Problems/tree/master/1037-valid-boomerang) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/lokesh238g6/DSA-Problems/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/lokesh238g6/DSA-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lokesh238g6/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -511,4 +513,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/lokesh238g6/DSA-Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/lokesh238g6/DSA-Problems/tree/master/1661-average-time-of-process-per-machine) |
 | [1934-confirmation-rate](https://github.com/lokesh238g6/DSA-Problems/tree/master/1934-confirmation-rate) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/lokesh238g6/DSA-Problems/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
