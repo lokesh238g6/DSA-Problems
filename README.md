@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/lokesh238g6/DSA-Problems/tree/master/0788-rotated-digits) |
 | [1037-valid-boomerang](https://github.com/lokesh238g6/DSA-Problems/tree/master/1037-valid-boomerang) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/lokesh238g6/DSA-Problems/tree/master/2806-account-balance-after-rounded-purchase) |
+| [3360-stone-removal-game](https://github.com/lokesh238g6/DSA-Problems/tree/master/3360-stone-removal-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/lokesh238g6/DSA-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lokesh238g6/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lokesh238g6/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/lokesh238g6/DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/lokesh238g6/DSA-Problems/tree/master/0682-baseball-game) |
+| [3360-stone-removal-game](https://github.com/lokesh238g6/DSA-Problems/tree/master/3360-stone-removal-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lokesh238g6/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
