@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/lokesh238g6/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/lokesh238g6/DSA-Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/lokesh238g6/DSA-Problems/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/lokesh238g6/DSA-Problems/tree/master/0856-score-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/lokesh238g6/DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/lokesh238g6/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/lokesh238g6/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0856-score-of-parentheses](https://github.com/lokesh238g6/DSA-Problems/tree/master/0856-score-of-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/lokesh238g6/DSA-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1446-consecutive-characters](https://github.com/lokesh238g6/DSA-Problems/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lokesh238g6/DSA-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -521,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/lokesh238g6/DSA-Problems/tree/master/1037-valid-boomerang) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/lokesh238g6/DSA-Problems/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
