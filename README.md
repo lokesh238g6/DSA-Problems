@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/lokesh238g6/DSA-Problems/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/lokesh238g6/DSA-Problems/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/lokesh238g6/DSA-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/lokesh238g6/DSA-Problems/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/lokesh238g6/DSA-Problems/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/lokesh238g6/DSA-Problems/tree/master/1068-product-sales-analysis-i) |
 | [1280-students-and-examinations](https://github.com/lokesh238g6/DSA-Problems/tree/master/1280-students-and-examinations) |
